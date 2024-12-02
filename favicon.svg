@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { 
+      font-family: ui-sans-serif, system-ui, sans-serif; 
+      font-weight: bold;
+    }
+    @media (prefers-color-scheme: dark) {
+      .text { fill: #64ffda; }
+    }
+    @media (prefers-color-scheme: light) {
+      .text { fill: #0891b2; }
+    }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" class="text" font-size="28">IM</text>
+</svg>
