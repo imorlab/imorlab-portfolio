@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="180" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .background { fill: #1a1a1a; }
+    .text { 
+      font-family: ui-sans-serif, system-ui, sans-serif; 
+      font-weight: bold;
+      fill: #64ffda;
+      font-size: 90px;
+    }
+    @media (prefers-color-scheme: light) {
+      .background { fill: #f8f9fa; }
+      .text { fill: #0891b2; }
+    }
+  </style>
+  <rect width="180" height="180" rx="45" class="background"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" class="text">IM</text>
+</svg>
